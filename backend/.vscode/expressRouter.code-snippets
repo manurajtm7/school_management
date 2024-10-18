@@ -1,0 +1,14 @@
+{
+  "expressRouter": {
+    "prefix": "exprr",
+    "body": [
+      "import { Router } from \"express\";",
+      "const router = Router();",
+      "",
+      "",
+      "export default router;",
+      ""
+    ],
+    "description": "expressRouter"
+  }
+}
